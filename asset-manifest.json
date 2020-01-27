@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/roychowd.github.io/static/css/main.2f690c3d.chunk.css",
-    "main.js": "/roychowd.github.io/static/js/main.869a83e4.chunk.js",
-    "main.js.map": "/roychowd.github.io/static/js/main.869a83e4.chunk.js.map",
-    "runtime-main.js": "/roychowd.github.io/static/js/runtime-main.b168d314.js",
-    "runtime-main.js.map": "/roychowd.github.io/static/js/runtime-main.b168d314.js.map",
-    "static/js/2.56b6f022.chunk.js": "/roychowd.github.io/static/js/2.56b6f022.chunk.js",
-    "static/js/2.56b6f022.chunk.js.map": "/roychowd.github.io/static/js/2.56b6f022.chunk.js.map",
-    "index.html": "/roychowd.github.io/index.html",
-    "precache-manifest.a2569b48a9c5d59e2ad31629b145cb87.js": "/roychowd.github.io/precache-manifest.a2569b48a9c5d59e2ad31629b145cb87.js",
-    "service-worker.js": "/roychowd.github.io/service-worker.js",
-    "static/css/main.2f690c3d.chunk.css.map": "/roychowd.github.io/static/css/main.2f690c3d.chunk.css.map",
-    "static/js/2.56b6f022.chunk.js.LICENSE": "/roychowd.github.io/static/js/2.56b6f022.chunk.js.LICENSE",
-    "static/media/resume.pdf": "/roychowd.github.io/static/media/resume.9cdb7fca.pdf"
+    "main.css": "/ro/static/css/main.2f690c3d.chunk.css",
+    "main.js": "/ro/static/js/main.3c97bab7.chunk.js",
+    "main.js.map": "/ro/static/js/main.3c97bab7.chunk.js.map",
+    "runtime-main.js": "/ro/static/js/runtime-main.f9ecce50.js",
+    "runtime-main.js.map": "/ro/static/js/runtime-main.f9ecce50.js.map",
+    "static/js/2.56b6f022.chunk.js": "/ro/static/js/2.56b6f022.chunk.js",
+    "static/js/2.56b6f022.chunk.js.map": "/ro/static/js/2.56b6f022.chunk.js.map",
+    "index.html": "/ro/index.html",
+    "precache-manifest.be98c9e03186d52e8de7fb81e9784dd1.js": "/ro/precache-manifest.be98c9e03186d52e8de7fb81e9784dd1.js",
+    "service-worker.js": "/ro/service-worker.js",
+    "static/css/main.2f690c3d.chunk.css.map": "/ro/static/css/main.2f690c3d.chunk.css.map",
+    "static/js/2.56b6f022.chunk.js.LICENSE": "/ro/static/js/2.56b6f022.chunk.js.LICENSE",
+    "static/media/resume.pdf": "/ro/static/media/resume.9cdb7fca.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.b168d314.js",
+    "static/js/runtime-main.f9ecce50.js",
     "static/js/2.56b6f022.chunk.js",
     "static/css/main.2f690c3d.chunk.css",
-    "static/js/main.869a83e4.chunk.js"
+    "static/js/main.3c97bab7.chunk.js"
   ]
 }
