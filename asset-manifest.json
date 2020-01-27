@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/perosnalwebsite/static/css/main.2f690c3d.chunk.css",
-    "main.js": "/perosnalwebsite/static/js/main.fd5619f4.chunk.js",
-    "main.js.map": "/perosnalwebsite/static/js/main.fd5619f4.chunk.js.map",
-    "runtime-main.js": "/perosnalwebsite/static/js/runtime-main.c2c2f5fd.js",
-    "runtime-main.js.map": "/perosnalwebsite/static/js/runtime-main.c2c2f5fd.js.map",
-    "static/js/2.56b6f022.chunk.js": "/perosnalwebsite/static/js/2.56b6f022.chunk.js",
-    "static/js/2.56b6f022.chunk.js.map": "/perosnalwebsite/static/js/2.56b6f022.chunk.js.map",
-    "index.html": "/perosnalwebsite/index.html",
-    "precache-manifest.8983f959bd528725caeb37ed482eb550.js": "/perosnalwebsite/precache-manifest.8983f959bd528725caeb37ed482eb550.js",
-    "service-worker.js": "/perosnalwebsite/service-worker.js",
-    "static/css/main.2f690c3d.chunk.css.map": "/perosnalwebsite/static/css/main.2f690c3d.chunk.css.map",
-    "static/js/2.56b6f022.chunk.js.LICENSE": "/perosnalwebsite/static/js/2.56b6f022.chunk.js.LICENSE",
-    "static/media/resume.pdf": "/perosnalwebsite/static/media/resume.9cdb7fca.pdf"
+    "main.css": "/roychowd.github.io/static/css/main.2f690c3d.chunk.css",
+    "main.js": "/roychowd.github.io/static/js/main.869a83e4.chunk.js",
+    "main.js.map": "/roychowd.github.io/static/js/main.869a83e4.chunk.js.map",
+    "runtime-main.js": "/roychowd.github.io/static/js/runtime-main.b168d314.js",
+    "runtime-main.js.map": "/roychowd.github.io/static/js/runtime-main.b168d314.js.map",
+    "static/js/2.56b6f022.chunk.js": "/roychowd.github.io/static/js/2.56b6f022.chunk.js",
+    "static/js/2.56b6f022.chunk.js.map": "/roychowd.github.io/static/js/2.56b6f022.chunk.js.map",
+    "index.html": "/roychowd.github.io/index.html",
+    "precache-manifest.a2569b48a9c5d59e2ad31629b145cb87.js": "/roychowd.github.io/precache-manifest.a2569b48a9c5d59e2ad31629b145cb87.js",
+    "service-worker.js": "/roychowd.github.io/service-worker.js",
+    "static/css/main.2f690c3d.chunk.css.map": "/roychowd.github.io/static/css/main.2f690c3d.chunk.css.map",
+    "static/js/2.56b6f022.chunk.js.LICENSE": "/roychowd.github.io/static/js/2.56b6f022.chunk.js.LICENSE",
+    "static/media/resume.pdf": "/roychowd.github.io/static/media/resume.9cdb7fca.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2c2f5fd.js",
+    "static/js/runtime-main.b168d314.js",
     "static/js/2.56b6f022.chunk.js",
     "static/css/main.2f690c3d.chunk.css",
-    "static/js/main.fd5619f4.chunk.js"
+    "static/js/main.869a83e4.chunk.js"
   ]
 }
