@@ -1,38 +1,114 @@
-.App {
-  text-align: center;
+.background {
+  height: 100vh;
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+a {
+  color: #3c5b6e;
+  text-decoration: underline;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+@media only screen and (max-width: 600px) {
+  .info-container {
+    width: 280px;
+  }
+  .info-text {
+    font-size: 1.1em;
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+@media only screen and (min-width: 600px) {
+  .info-container {
+    width: 360px;
+  }
+  .info-text {
+    font-size: 1.5em;
+  }
+}
+
+.info {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.info-container {
+  position: relative;
+  left: 0;
+  transition: 1s;
+  padding: 10px;
+  height: 100%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.info-corners-top:before {
+  display: block;
+  content: "";
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  border-top: 2px solid #00b7ff20;
+  border-left: 2px solid #00b7ff20;
+}
+.info-corners-top:after {
+  display: block;
+  content: "";
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  border-top: 2px solid #00b7ff20;
+  border-right: 2px solid #00b7ff20;
+}
+.info-corners-bottom:before {
+  display: block;
+  content: "";
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  bottom: -10px;
+  left: -10px;
+  border-bottom: 2px solid #00b7ff20;
+  border-left: 2px solid #00b7ff20;
+}
+.info-corners-bottom:after {
+  display: block;
+  content: "";
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  bottom: -10px;
+  right: -10px;
+  border-bottom: 2px solid #00b7ff20;
+  border-right: 2px solid #00b7ff20;
+}
+
+.info-title {
+  color: #e944448e;
+  font-family: "VT323", monospace;
+  margin-bottom: 60px;
+  font-size: 2.7em;
+}
+
+.info-text {
+  color: rgba(255, 255, 255, 0.5);
+  line-height: 1.3em;
+  font-family: "VT323", monospace;
+  white-space: pre;
+}
+
+#label {
+  color: rgba(255, 255, 255, 0.3);
+}
+
+#end {
+  color: rgba(255, 255, 255, 0.1);
 }
